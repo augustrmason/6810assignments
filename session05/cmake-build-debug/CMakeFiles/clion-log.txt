@@ -1,0 +1,2 @@
+CMakeLists.txt not found in D:\Dropbox\School\PHY6810\6810_Mason\session05
+Cannot load CMake project: Neither MinGW nor Cygwin is selected
